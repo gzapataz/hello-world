@@ -7,8 +7,13 @@ public class HelloWorld {
 		System.out.println("Hola Mundo Cambiado en GIT directamente");
 		System.out.println("Adicione este metodo a la funcionalidad");
 		System.out.println("Adicione este metodo a en GIT");
+<<<<<<< HEAD
 		System.out.println("Adicione este 4 metodo en Eclipse");
+=======
+>>>>>>> master
 
+		System.out.println("Adicione este 9 metodo a en Computador 2");
+		
 	}
 
 }
